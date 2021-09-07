@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loverde13
 - 👀 I’m interested in NLP, Quantum NLP, Deep Learning, Algorithmic Trading
-- 🌱 I’m currently learning Java, Python, C, C++
+- 🌱 I’m currently learning Java, Python, Haskell, Typescript, HTML, CSS
 - 💞️ I’m looking to collaborate on nothing ATM.
 - 📫 How to reach me loverdejakob@gmail.com
 
